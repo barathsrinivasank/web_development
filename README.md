@@ -1,1 +1,2 @@
-# web_development
+# Identification-Of-Herbal-Plants
+Both human life and other forms of life on the planet depend heavily on herbal plants. The largest impact on the natural cycle is also exerted by herbal remedies. In biology and agriculture, it is becoming more crucial to recognize herbal plants. As a result, we created an Android-based smartphone application for identifying herbal plants based on images of their leaves. Used cloud computing process to create the database by using firebase and input rows data of our model class. . CNN algorithm,  Efficient Net-Lite with TensorFlow Lite model creator will then be used in the machine learning process to create the model and also used public API for some of the features.
